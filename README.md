@@ -15,14 +15,10 @@ You can click the Preview link to take a look at your changes.
 const ray = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, Java],
-  askMeAbout: ["web testing", "mobile testing", "automation", "UI testing"],
+  askMeAbout: ["web testing", "mobile testing", "automation", "ui testing"],
   technologies: {
-        web: {
-            js: ["TestCafe", "Wdio.io", "Selenium"],
-        },
-        mobile: {
-            native: ["Selenium", "Appium"]
-        },
+        web: ["TestCafe", "Wdio.io", "Selenium"],
+        mobile: ["Selenium", "Appium"],
         misc: ["TestRail", "JIRA", "VSCode", "XMind"]
   },
   currentFocus: "learning web automation testing",
@@ -30,4 +26,4 @@ const ray = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
