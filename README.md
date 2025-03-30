@@ -6,20 +6,19 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 👋 Hi there!  I'm Raymond Jhonathan Sambur! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>👀 Software Development Engineer in Test at <a href="https://www.dana.id/">DANA
+<p><em>👀 Senior Software Development Engineer in Test at <a href="https://www.dana.id/">DANA
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  🌱
 ```javascript
 const ray = {
-  pronouns: "He" | "Him",
   code: [Javascript, Typescript, Java],
   askMeAbout: ["web testing", "mobile testing", "automation", "ui testing"],
   technologies: {
-        web: ["TestCafe", "Wdio.io", "Selenium"],
+        web: ["TestCafe", "WebDriver.io", "Selenium"],
         mobile: ["Selenium", "Appium"],
-        misc: ["TestRail", "JIRA", "VSCode", "XMind"]
+        misc: ["TestRail", "JIRA", "VSCode", "XMind", "Notion", "Mindomo"]
   },
   currentFocus: "learning web automation testing",
   funFact: "dolphins sleep with one eye open"
